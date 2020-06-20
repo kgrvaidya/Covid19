@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Covid 19
+This project is all about visualizing the covid-19 spread.
+This is a WIP. not a finalized versiion. 
 ## Available Scripts
 
 In the project directory, you can run:
